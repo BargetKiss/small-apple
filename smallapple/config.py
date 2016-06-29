@@ -9,11 +9,11 @@ class Config:
     MAIL_SERVER = 'smtp.qq.com'
     MAIL_PORT = 25
     MAIL_USE_TLS = True
-    MAIL_USERNAME = '1994725098@qq.com'
-    MAIL_PASSWORD = 'xdmmonpueaxhbaja'
-    FLASKY_MAIL_SUBJECT_PREFIX = '[Flasky]'
-    FLASKY_MAIL_SENDER = 'Flask Admin <1994725098@qq.com>'
-    FLASKY_ADMIN = '1994725098@qq.com'
+    MAIL_USERNAME = 'xx@qq.com'
+    MAIL_PASSWORD = 'xxx'
+    FLASKY_MAIL_SUBJECT_PREFIX = 'xx'
+    FLASKY_MAIL_SENDER = 'xx <xx@qq.com>'
+    FLASKY_ADMIN = 'xx@qq.com'
     FLASKY_POSTS_PER_PAGE = 20
     FLASKY_FOLLOWERS_PER_PAGE = 50
     FLASKY_COMMENTS_PER_PAGE = 30

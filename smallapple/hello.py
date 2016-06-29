@@ -22,10 +22,10 @@ app.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = True
 app.config['MAIL_SERVER'] = 'smtp.163.com'
 app.config['MAIL_PORT'] = 25
 app.config['MAIL_USE_TLS'] = True
-app.config['MAIL_USERNAME'] = 'lay19670707@163.com'
-app.config['MAIL_PASSWORD'] = 'a65519069'
-app.config['FLASKY_MAIL_SUBJECT_PREFIX'] = '[Flasky]'
-app.config['FLASKY_MAIL_SENDER'] = 'lay19670707 <lay19670707@163.com>'
+app.config['MAIL_USERNAME'] = 'xx@qq.com'
+app.config['MAIL_PASSWORD'] = 'xx'
+app.config['FLASKY_MAIL_SUBJECT_PREFIX'] = 'xx'
+app.config['FLASKY_MAIL_SENDER'] = 'xx <x7@qq.com>'
 app.config['FLASKY_ADMIN'] = os.environ.get('FLASKY_ADMIN')
     
 
